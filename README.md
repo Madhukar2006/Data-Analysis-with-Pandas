@@ -1,2 +1,41 @@
-# Data-Analysis-with-Pandas
-Data Analysis with Pandas is a Python project that demonstrates loading and inspecting a CSV dataset, cleaning missing or incorrect data, and performing filtering, grouping, and aggregation. The project focuses on basic exploratory data analysis (EDA) to extract simple insights using Pandas.
+# Data Analysis with Pandas
+
+## 📊 Overview
+This project demonstrates basic data analysis using Python and the Pandas library. It includes loading a CSV dataset, inspecting data, cleaning missing or incorrect values, and performing filtering, grouping, and aggregation to extract meaningful insights.
+
+## 🚀 Features
+- Load and inspect CSV datasets
+- Handle missing values and clean data
+- Filtering and selecting specific data
+- Grouping and aggregation using Pandas
+- Generate simple analytical insights
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+
+## 📂 Project Structure
+├── data.csv  
+├── analysis.py  
+├── cleaned_data.csv  
+└── README.md
+
+## ▶️ How to Run
+1. Install required libraries:
+   pip install pandas
+
+2. Run the script:
+   python analysis.py
+
+## 📈 Workflow
+- Load dataset using Pandas
+- Inspect data structure and statistics
+- Clean missing or incorrect values
+- Apply filtering and grouping operations
+- Generate insights and save cleaned dataset
+
+## 🎯 Purpose
+This project is designed for beginners learning data analysis and exploratory data analysis (EDA) using Pandas.
+
+## 📌 Author
+Madhukar Pal
