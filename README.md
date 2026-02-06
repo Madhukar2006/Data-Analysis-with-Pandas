@@ -14,12 +14,6 @@ This project demonstrates basic data analysis using Python and the Pandas librar
 - Python
 - Pandas
 
-## 📂 Project Structure
-├── data.csv  
-├── analysis.py  
-├── cleaned_data.csv  
-└── README.md
-
 ## ▶️ How to Run
 1. Install required libraries:
    pip install pandas
