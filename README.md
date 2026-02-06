@@ -14,13 +14,6 @@ This project demonstrates basic data analysis using Python and the Pandas librar
 - Python
 - Pandas
 
-## ▶️ How to Run
-1. Install required libraries:
-   pip install pandas
-
-2. Run the script:
-   python analysis.py
-
 ## 📈 Workflow
 - Load dataset using Pandas
 - Inspect data structure and statistics
